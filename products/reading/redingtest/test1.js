@@ -17,114 +17,168 @@ const app = {
     {
       name: "Test 1.1",
       question:
-        "The appointment of a new chief financial at Veracore Industries was announced on April",
+        "Dr. Braun will write recommendation letters for interns who master every task of a editor.",
       translation:
-        "Việc bổ nhiệm giám đốc tài chính mới tại Veracore Industries đã được thông báo vào tháng 4",
+        "Ông Braun will write lá thư giới thiệu cho thực tập sinh đã thành thạo mọi công việc của một editor.",
     },
     {
       name: "Test 1.2",
+      question:
+        "The appointment of a new chief financial at VI was announced on April",
+      translation:
+        "Việc bổ nhiệm giám đốc tài chính mới tại VI đã được thông báo vào tháng 4",
+    },
+    {
+      name: "Test 1.3",
+      question: "city employees are eligible to take vacation days.",
+      translation:
+        "Nhân viên công ty đã đủ điều kiện để có những ngày nghỉ phép.",
+    },
+    {
+      name: "Test 1.4",
+      question:
+        "Ms. Larensky is applying with several different agencies to obtain the permits required for event",
+      translation:
+        "Bà Larensky đang nộp hồ sơ cho nhiều đơn vị khác để có giấy phép được yêu cầu cho sự kiện",
+    },
+    {
+      name: "Test 1.5",
       question:
         "This letter as confirmation that we have received your request",
       translation:
         "Lá thư này xác nhận rằng chúng tôi đã nhận được yêu cầu của bạn",
     },
     {
-      name: "Test 1.3",
-      question:
-        "The city council approved the bill to increase funding for road project",
-      translation:
-        "Hội đồng thành phố đã phê duyệt văn bản đạo luật nhằm tăng kinh phí cho dự án đường bộ",
-    },
-    {
-      name: "Test 1.4",
-      question: "Thank you for your participation in the community survey",
-      translation:
-        "Cảm ơn vì sự tham gia của bạn trong việc khảo sát cộng đồng",
-    },
-    {
-      name: "Test 1.5",
-      question:
-        "Solar energy has become a key factor in the development energy throughout the region.",
-      translation:
-        "Năng lượng mặt trời đã trở thành yếu tố quan trọng trong việc phát triển năng lượng trong khu vực",
-    },
-    {
       name: "Test 1.6",
-      question:
-        "All laboratory personnel must attend the workshop to ensure compliance regulations",
-      translation:
-        "Toàn bộ nhân viên phòng thí nghiệm phải tham gia workshop nhằm đảm bảo tuân thủ các quy định",
-    },
-    {
-      name: "Test 1.7",
       question:
         "Many people at the company have experience, but only a handful of us can see the future importance of current trends.",
       translation:
         "Nhiều người tại công ty có nhiều kinh nghiệm, nhưng chỉ một người trong số chúng tôi có thể nhìn thấy những điều quan trọng tương lai để đón đầu xu hướng hiện tại",
     },
     {
+      name: "Test 1.7",
+      question:
+        "The new furniture for the conference room is scheduled to be delivered early on Tuesday.",
+      translation:
+        "Nội thất mới cho phòng hội nghị được lên kế hoạch giao hàng sớm vào thứ 5.",
+    },
+    {
       name: "Test 1.8",
       question:
-        "The NI Program honors residents Who volunteer their time to help City.",
+        "After working in Canada for ten years, Cha Joon has returned to Seoul to plan the opening restaurant.",
       translation:
-        "Chương trình NI vinh danh những dân cư tự nguyện dành thời gian của họ để giúp đỡ thành phố",
+        "Sau khi làm việc tại Canada khoảng 10 năm, Cha Joom đã quay trở lại Seoul để lên kế hoạch mở khách sạn.",
     },
     {
       name: "Test 1.9",
       question:
-        "Members are discuss the issues themselves before the votes are taken.",
+        "T Database System is designed to perform a financial analysis automatically.",
       translation:
-        "Những thành viên được thảo luận những vấn đề của chính họ trước khi phiếu bầu được thực hiện",
+        "Hệ thống dữ liệu T được thiết kế để thực hiện một phân tích tài chính một cách tự động.",
     },
     {
       name: "Test 1.10",
       question:
-        "Employees must submit requests for time off to Ms. Cheung for approval.",
+        "The city council approved the bill to increase funding for road project",
       translation:
-        "Nhân viên phải nộp yêu cầu về thời gian nghỉ để bà Cheung phê duyệt",
+        "Hội đồng thành phố đã phê duyệt hóa đơn nhằm tăng kinh phí cho dự án đường bộ",
     },
     {
       name: "Test 1.11",
+      question:
+        "The NI Program honors residents Who volunteer their time to help City.",
+      translation:
+        "Chương trình NI vinh danh những cư dân tự nguyện dành thời gian của họ để giúp đỡ thành phố",
+    },
+    {
+      name: "Test 1.12",
+      question: "Several architects proposed design plans the building.",
+      translation:
+        "Nhiều kiến trúc sư được đề xuất lên kế hoạch thiết kế tòa nhà.",
+    },
+    {
+      name: "Test 1.13",
       question: "The program is limited supervisors within CMC system",
       translation:
         "Chương trình đã giới hạn những giám sát viên trong phạm vi hệ thống CMC",
     },
     {
-      name: "Test 1.12",
-      question:
-        "employees who complete their work before due may receive bonuses.",
-      translation:
-        "Những nhân viên hoàn thành công việc của họ trước hạn có thể nhận được tiền thưởng",
-    },
-    {
-      name: "Test 1.13",
-      question:
-        "Pharmacy technicians are responsible for processing prescriptions as soon as they are requested",
-      translation:
-        "Kỹ thuật viên thuốc có trách nhiệm xử lý những đơn thuốc ngay sau khi họ được yêu cầu",
-    },
-    {
       name: "Test 1.14",
-      question:
-        "Ms. Larensky is applying with several different agencies to obtain the permits required for event",
+      question: "Mr. Koizumi must complete the cost before he leaves.",
       translation:
-        "Bà Larensky đang nộp hồ sơ cho những đơn vị khác để có giấy phép được yêu cầu cho sự kiện",
+        "Ông Koizuimi phải hoàn thành đơn giá trước khi ông ấy rời đi.",
     },
     {
-      name: "Test 1.",
-      question: "",
-      translation: "",
+      name: "Test 1.15",
+      question:
+        "Although the new printer is similar to other models, it costs only half as much.",
+      translation:
+        "Mặc dù máy in mới giống với những mẫu khác nhưng giá của nó chỉ bằng một nữa.",
     },
     {
-      name: "Test 1.",
-      question: "",
-      translation: "",
+      name: "Test 1.16",
+      question:
+        "To address budget deficits, Lunere County plans to limit spending and promote tourism.",
+      translation:
+        "Để giải quyết thâm hụt tài chính, thành phố Lunere lên kế hoạch để giới hạn chi tiêu và thúc đẩy du lịch.",
     },
-    {
-      name: "Test 1.",
-      question: "",
-      translation: "",
-    },
+    // {
+    //   name: "Test 1.5",
+    //   question:
+    //     "Solar energy has become a key factor in the development energy throughout the region.",
+    //   translation:
+    //     "Năng lượng mặt trời đã trở thành yếu tố quan trọng trong việc phát triển năng lượng trong khu vực",
+    // },
+    // {
+    //   name: "Test 1.6",
+    //   question:
+    //     "All laboratory personnel must attend the workshop to ensure compliance regulations",
+    //   translation:
+    //     "Toàn bộ nhân viên phòng thí nghiệm phải tham gia workshop nhằm đảm bảo tuân thủ các quy định",
+    // },
+    // {
+    //   name: "Test 1.9",
+    //   question:
+    //     "Members are discuss the issues themselves before the votes are taken.",
+    //   translation:
+    //     "Những thành viên được thảo luận những vấn đề của chính họ trước khi phiếu bầu được thực hiện",
+    // },
+    // {
+    //   name: "Test 1.10",
+    //   question:
+    //     "Employees must submit requests for time off to Ms. Cheung for approval.",
+    //   translation:
+    //     "Nhân viên phải nộp yêu cầu về thời gian nghỉ để bà Cheung phê duyệt",
+    // },
+    // {
+    //   name: "Test 1.12",
+    //   question:
+    //     "employees who complete their work before due may receive bonuses.",
+    //   translation:
+    //     "Những nhân viên hoàn thành công việc của họ trước hạn có thể nhận được tiền thưởng",
+    // },
+    // {
+    //   name: "Test 1.13",
+    //   question:
+    //     "Pharmacy technicians are responsible for processing prescriptions as soon as they are requested",
+    //   translation:
+    //     "Kỹ thuật viên thuốc có trách nhiệm xử lý những đơn thuốc ngay sau khi họ được yêu cầu",
+    // },
+    // {
+    //   name: "Test 1.",
+    //   question: "",
+    //   translation: "",
+    // },
+    // {
+    //   name: "Test 1.",
+    //   question: "",
+    //   translation: "",
+    // },
+    // {
+    //   name: "Test 1.",
+    //   question: "",
+    //   translation: "",
+    // },
   ],
 
   //   render: function () {

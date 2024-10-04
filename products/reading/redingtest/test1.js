@@ -122,63 +122,66 @@ const app = {
       translation:
         "Để giải quyết thâm hụt tài chính, thành phố Lunere lên kế hoạch để giới hạn chi tiêu và thúc đẩy du lịch.",
     },
-    // {
-    //   name: "Test 1.5",
-    //   question:
-    //     "Solar energy has become a key factor in the development energy throughout the region.",
-    //   translation:
-    //     "Năng lượng mặt trời đã trở thành yếu tố quan trọng trong việc phát triển năng lượng trong khu vực",
-    // },
-    // {
-    //   name: "Test 1.6",
-    //   question:
-    //     "All laboratory personnel must attend the workshop to ensure compliance regulations",
-    //   translation:
-    //     "Toàn bộ nhân viên phòng thí nghiệm phải tham gia workshop nhằm đảm bảo tuân thủ các quy định",
-    // },
-    // {
-    //   name: "Test 1.9",
-    //   question:
-    //     "Members are discuss the issues themselves before the votes are taken.",
-    //   translation:
-    //     "Những thành viên được thảo luận những vấn đề của chính họ trước khi phiếu bầu được thực hiện",
-    // },
-    // {
-    //   name: "Test 1.10",
-    //   question:
-    //     "Employees must submit requests for time off to Ms. Cheung for approval.",
-    //   translation:
-    //     "Nhân viên phải nộp yêu cầu về thời gian nghỉ để bà Cheung phê duyệt",
-    // },
-    // {
-    //   name: "Test 1.12",
-    //   question:
-    //     "employees who complete their work before due may receive bonuses.",
-    //   translation:
-    //     "Những nhân viên hoàn thành công việc của họ trước hạn có thể nhận được tiền thưởng",
-    // },
-    // {
-    //   name: "Test 1.13",
-    //   question:
-    //     "Pharmacy technicians are responsible for processing prescriptions as soon as they are requested",
-    //   translation:
-    //     "Kỹ thuật viên thuốc có trách nhiệm xử lý những đơn thuốc ngay sau khi họ được yêu cầu",
-    // },
-    // {
-    //   name: "Test 1.",
-    //   question: "",
-    //   translation: "",
-    // },
-    // {
-    //   name: "Test 1.",
-    //   question: "",
-    //   translation: "",
-    // },
-    // {
-    //   name: "Test 1.",
-    //   question: "",
-    //   translation: "",
-    // },
+    {
+      name: "Test 1.17",
+      question:
+        "Operating instructions are posted above the printer so you can easily refer to them.",
+      translation:
+        "Các hướng dẫn vận hành được đăng trên máy in vì thế bạn có thể dễ dàng tham khảo chúng.",
+    },
+    {
+      name: "Test 1.18",
+      question:
+        "The Vickwell Historical Museum will be closed for renovations beginning on Monday.",
+      translation:
+        "Bảo toàn lịch sử sẽ được đóng cửa cho việc tu sửa và sẽ bắt đầu vào thứ hai",
+    },
+    {
+      name: "Test 1.19",
+      question: "FPN implements the very latest techniques. ",
+      translation: "FPN thực hiện kĩ thuật mới nhất.",
+    },
+    {
+      name: "Test 1.20",
+      question:
+        "Employees complete their work before it is due may receive bonuses.",
+      translation:
+        "Những nhân viên hoàn thành công việc trước kì hạn có thể nhận được tiền thưởng.",
+    },
+    {
+      name: "Test 1.21",
+      question: "Thank you for your participation in comunity survey.",
+      translation:
+        "Cảm ơn vì sự tham gia của bạn trong việc khảo sát cộng đồng.",
+    },
+    {
+      name: "Test 1.22",
+      question:
+        "Solar energy has become a key factor in the development of additional energy throughout the region.",
+      translation:
+        "Năng lượng mặt trời đã trở thành yếu tố chính trong việc phát triển nguồn năng lượng bổ sung trong khu vực.",
+    },
+    {
+      name: "Test 1.23",
+      question:
+        "The LPN company has issued a special report to address concerns regarding the fuel efficiency",
+      translation:
+        "Công ty LPN đã ban hành một thông báo đặt biệt để giải quyết những lo ngại liên quan đến việc ảnh hưởng của nhiên liệu.",
+    },
+    {
+      name: "Test 1.24",
+      question:
+        "Company  will focus on techniques that help people think more creatively",
+      translation:
+        "Công ty sẽ tập trung vào kỹ thuật giúp con người suy nghĩ sáng tạo hơn",
+    },
+    {
+      name: "Test 1.25",
+      question:
+        "Employees must submit requests for time off to Ms. Cheung for approval.",
+      translation:
+        "Nhân viên phải nộp yêu cầu về thời gian nghỉ cho bà Cheung phê duyệt.",
+    },
   ],
 
   //   render: function () {

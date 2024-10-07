@@ -182,6 +182,40 @@ const app = {
       translation:
         "Nhân viên phải nộp yêu cầu về thời gian nghỉ cho bà Cheung phê duyệt.",
     },
+    {
+      name: "Test 1.26",
+      question:
+        "Members are free to discuss the issues among themselves before the votes are taken.",
+      translation:
+        "Các thành viên được thảo luận tự do về vấn đề của chính họ trước khi các phiếu bầu được thực hiện.",
+    },
+    {
+      name: "Test 1.27",
+      question: "Fen Jiang's attempt at a film was clearly a success.",
+      translation:
+        "Nỗ lực của Fen Jiang tại một dự án phim rõ ràng là một thành công.",
+    },
+    {
+      name: "Test 1.28",
+      question:
+        "While the NCU parking area is now open, a section has been reserved for employees.",
+      translation:
+        "Trong khi khu vực đậu xe NCU hiện tại đang mở, một lựa chọn đã giành cho nhân viên.",
+    },
+    {
+      name: "Test 1.29",
+      question:
+        "Pharmacy technicians are responsible for processing prescriptions as soon as hey are requested.",
+      translation:
+        "Những kỹ thuật viên thuốc chịu trách nhiệm cho việc xử lý đơn thuốc ngay sau khi họ được yêu cầu",
+    },
+    {
+      name: "Test 1.30",
+      question:
+        "All laboratory personnel must attend the safety workshop to ensure compliance with new regulations..",
+      translation:
+        "Toàn bộ nhân viên phòng thí nghiệm phải tham gia buổi hội thảo an toàn để đảm bảo tuân thủ những quy định mới.",
+    },
   ],
 
   //   render: function () {

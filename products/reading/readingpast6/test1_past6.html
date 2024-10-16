@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./test1_past6.css" />
+    <link rel="stylesheet" href="../../../assets/css/base.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&family=Noto+Sans:wght@100;200;300;400;500;600;700&family=Quicksand:wght@300;400;500;600;700&family=Rubik:wght@300;400;500;600;700;800&family=Work+Sans:wght@100;200;300;400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+    />
+  </head>
+  <body>
+    <header>
+      <a href="../../../index.html">
+        <div class="combackhome">
+          <i
+            class="fa-solid fa-house-chimney fa-2xl"
+            style="
+              color: #ffffff;
+              font-size: 45px;
+              cursor: pointer;
+              opacity: 0.7;
+            "
+          ></i>
+        </div>
+      </a>
+
+      <a href="../reading.html">
+        <div class="combackhome">
+          <i
+            class="fa-solid fa-arrow-up-from-bracket fa-rotate-270 fa-2xl"
+            style="
+              color: #ffffff;
+              font-size: 45px;
+              cursor: pointer;
+              opacity: 0.7;
+            "
+          ></i>
+        </div>
+      </a>
+    </header>
+
+    <main>
+      <form class="form">
+        <div class="container1">
+          <div class="nameSong">
+            <p class="nameSong_name">Test 1.1</p>
+          </div>
+          <div class="playlist">
+            <div class="prev">
+              <i
+                class="fa-solid fa-forward fa-rotate-180 fa-xl"
+                style="color: #000000"
+              ></i>
+            </div>
+            <div class="playlist__audio">
+              <p class="question">
+                On Friday, Mr. Nakamura will discuss _______ ideas for
+                supporting busy waiters.
+              </p>
+            </div>
+            <div class="next">
+              <i class="fa-solid fa-forward fa-xl" style="color: #000000"></i>
+            </div>
+          </div>
+
+          <div class="form_input">
+            <input
+              class="input active"
+              id="text"
+              type="text"
+              placeholder="Type what you hear..."
+            />
+          </div>
+
+          <div class="form_button">
+            <button>Help</button>
+            <button>Check</button>
+          </div>
+        </div>
+
+        <div class="help">
+          <div class="help__translate">
+            <i class="fa-solid fa-language fa-2xl" style="color: #000000"></i>
+            <span>Vietnamese Translation</span>
+            <p class="type-help">
+              Complete the challenge or click help to show.
+            </p>
+          </div>
+          <script>
+            const closed = document.getElementById("closed");
+            function vietnamese() {
+              closed.style.display = "none";
+            }
+          </script>
+
+          <div id="closed" class="help__translate1">
+            <i class="fa-solid fa-language fa-2xl" style="color: #000000"></i>
+            <span>Vietnamese Translation</span>
+            <p class="type-help1">What are you?</p>
+          </div>
+
+          <div class="help__translate2">
+            <i
+              class="fa-brands fa-soundcloud fa-2xl"
+              style="color: #000000"
+            ></i>
+            <span>Pronunciation </span>
+            <p class="type-help2">
+              Complete the challenge or click help to show.
+            </p>
+          </div>
+          <script>
+            const header1 = document.getElementById("header1");
+            function closedHeader1() {
+              header1.style.display = "block";
+            }
+          </script>
+
+          <div id="header1" class="help__translate3">
+            <i
+              class="fa-brands fa-soundcloud fa-2xl"
+              style="color: #000000"
+            ></i>
+            <span>Pronunciation </span>
+            <p class="type-help3">What are you?</p>
+          </div>
+        </div>
+      </form>
+    </main>
+  </body>
+  <script src="./test1_past6.js"></script>
+</html>

@@ -1,0 +1,174 @@
+body {
+  background-image: url(../../../assets/css/img/bg_extension_0.png);
+  background-size: cover;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.combackhome {
+  margin: 31px;
+}
+
+.nameSong_name {
+  text-align: center;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.playlist {
+  display: flex;
+  gap: 12px;
+  margin: 20px 19px;
+  padding-top: 20px;
+}
+
+.playlist__audio {
+  height: 57px;
+  overflow: hidden;
+}
+
+.prev,
+.next {
+  background-color: #e4e4e4;
+  padding: 17px;
+  border-radius: 36px;
+  cursor: pointer;
+}
+
+.prev:hover,
+.next:hover {
+  background-color: #c3c3c3;
+}
+
+.container1 {
+  margin-top: 15px;
+}
+
+/* playlist */
+
+.form {
+  background-color: #ffffff;
+  height: 500px;
+  width: 1220px;
+  margin: 25px 157px;
+  border-radius: 20px;
+  box-shadow: 0px -1px 19px 6px rgba(0, 0, 0, 0.39);
+  display: flex;
+  gap: 25px;
+  width: 1220px;
+  overflow: hidden;
+}
+
+.form_input {
+  padding: 16px;
+}
+
+.form_input input {
+  width: 650px;
+  /* padding-bottom: 100px; */
+  font-size: 18px;
+  border-radius: 10px;
+  border: 2px solid #565454;
+  padding: 5px 5px 100px;
+}
+
+.form_input input:hover {
+  border: 6px solid #0e9ee653;
+}
+
+.form_button {
+  display: flex;
+  justify-content: flex-start;
+  gap: 480px;
+  padding-left: 25px;
+}
+
+.form_button button {
+  padding: 10px 15px;
+  font-size: 18px;
+  background-color: aliceblue;
+  border: 1px solid;
+  border-radius: 9px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.form_button button:hover {
+  background-color: rgb(191, 220, 245);
+}
+
+/* form button */
+
+.help__translate {
+  border: 1px solid;
+  padding: 20px;
+  width: 500px;
+  height: 100px;
+  border-radius: 10px;
+  display: none;
+}
+
+.help__translate1 {
+  border: 1px solid;
+  padding: 20px;
+  width: 500px;
+  height: 100px;
+  border-radius: 10px;
+  /* display: none; */
+}
+
+.help__translate2 {
+  border: 1px solid;
+  padding: 20px;
+  width: 500px;
+  height: 100px;
+  border-radius: 10px;
+  display: none;
+}
+
+.help__translate3 {
+  border: 1px solid;
+  padding: 20px;
+  width: 500px;
+  height: 100px;
+  border-radius: 10px;
+  /* display: none; */
+}
+
+span {
+  font-size: 19px;
+}
+
+.type-help {
+  font-size: 18px;
+  padding-top: 10px;
+}
+
+.type-help1 {
+  font-size: 18px;
+  padding-top: 10px;
+}
+
+.type-help3 {
+  font-size: 18px;
+  padding-top: 10px;
+}
+
+.help {
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  padding-right: 10px;
+  margin-top: 79px;
+}
+
+.question {
+  font-size: 18px;
+  color: #232222dc;
+  font-weight: 600;
+  line-height: 33px;
+  padding: -1px 125px;
+}
